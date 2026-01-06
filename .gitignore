@@ -22,4 +22,4 @@ node_modules
 dist
 
 # QA Capture extension zip file
-qa-capture-extension.zip
+# qa-capture-extension.zip
