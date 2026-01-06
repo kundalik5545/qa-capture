@@ -8,6 +8,10 @@ QA Capture is a meticulously designed browser extension that brings professional
 
 We have engineered this extension to be lightweight, fast, and incredibly intuitive. It doesn't just take screenshots; it intelligently organizes your testing sessions, tracks timestamps, and provides multiple export formats to seamlessly integrate with your existing documentation tools.
 
+## 🥳 Image
+
+![QA Capture Extension Icon](icons/qa-capture-extension.png)
+
 ✨ KEY FEATURES:
 
 📸 Smart Screenshot Capture
